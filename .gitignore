@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальное окружение
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Переменные окружения (секреты)
+.env
+
+# База данных
+*.db
+
+# Логи
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
