@@ -1,14 +1,7 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-
-# Виртуальное окружение
-venv/
-.venv/
-env/
-ENV/
+# Go
+bot
+bot.exe
+*.exe
 
 # IDE
 .vscode/
